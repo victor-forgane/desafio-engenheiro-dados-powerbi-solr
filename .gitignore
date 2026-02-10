@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente
+.venv/
+.env
+
+# Docker volumes
+.docker_data/
+db_data/
