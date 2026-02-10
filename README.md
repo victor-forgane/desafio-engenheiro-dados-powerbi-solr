@@ -41,11 +41,12 @@ Os dados são carregados a partir de um banco MySQL inicializado via Docker.
 - Distribuição de alunos por idade
 
 ### Desempenho Acadêmico
-- Média das notas por semestre
-- Tabela com alunos e suas médias de notas
-- Identificação visual de possíveis outliers de desempenho
+- Média das notas por semestre e gráfico de linha para mostrar evolução e tendência.
+- Tabela com alunos e suas médias de notas.
+- Identificação visual de possíveis outliers de desempenho.
 - Gráfico Scatter Plot de desvio padrão vs média das notas para identificar a média e a variabilidade das notas dos alunos. 
-- Gráfico de setor trazendo a quantidade e a porcentagem de alunos aprovados e reprovados. 
+- Gráfico de setor trazendo a quantidade e a porcentagem de alunos aprovados e reprovados.
+- Mapa de calor mostrando onde se encontram as maiores médias durante o semestre. 
 
 ### Matérias e Professores
 - Tabela com matérias e respectivos professores responsáveis
